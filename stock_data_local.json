@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "total_stocks": 10,
-    "successful_fetches": 10,
-    "failed_fetches": 0,
-    "last_updated": "2025-08-20T13:50:39.233107",
+    "total_stocks": 13,
+    "successful_fetches": 11,
+    "failed_fetches": 2,
+    "last_updated": "2025-08-22T14:26:18.944592",
     "data_source": "yfinance",
     "update_type": "test_run_10_stocks"
   },
@@ -17,122 +17,134 @@
     {
       "symbol": "AAPL",
       "company_name": "Apple Inc.",
-      "current_price": 228.01,
+      "current_price": 227.94,
       "week_52_high": 259.18,
       "week_52_low": 168.8,
-      "daily_return": -1.11,
+      "daily_return": 1.35,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 35.08,
-      "last_updated": "2025-08-20T13:50:35.718528"
+      "distance_from_52_week_low_percent": 35.04,
+      "last_updated": "2025-08-22T14:26:12.169686"
     },
     {
       "symbol": "GOOGL",
       "company_name": "Alphabet Inc.",
-      "current_price": 198.62,
+      "current_price": 203.9,
       "week_52_high": 206.56,
       "week_52_low": 140.36,
-      "daily_return": -1.46,
+      "daily_return": 2.08,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 41.51,
-      "last_updated": "2025-08-20T13:50:36.059462"
+      "distance_from_52_week_low_percent": 45.27,
+      "last_updated": "2025-08-22T14:26:12.547020"
     },
     {
       "symbol": "MSFT",
       "company_name": "Microsoft Corporation",
-      "current_price": 510.06,
-      "week_52_high": 555.45,
-      "week_52_low": 344.16,
-      "daily_return": 0.06,
+      "current_price": 508.19,
+      "week_52_high": 554.54,
+      "week_52_low": 343.59,
+      "daily_return": 0.78,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 48.21,
-      "last_updated": "2025-08-20T13:50:36.484226"
+      "distance_from_52_week_low_percent": 47.9,
+      "last_updated": "2025-08-22T14:26:13.102800"
     },
     {
       "symbol": "AMZN",
       "company_name": "Amazon.com, Inc.",
-      "current_price": 224.07,
+      "current_price": 225.13,
       "week_52_high": 242.52,
       "week_52_low": 161.38,
-      "daily_return": -1.73,
+      "daily_return": 1.43,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 38.85,
-      "last_updated": "2025-08-20T13:50:36.800057"
+      "distance_from_52_week_low_percent": 39.5,
+      "last_updated": "2025-08-22T14:26:13.445676"
     },
     {
       "symbol": "TSLA",
       "company_name": "Tesla, Inc.",
-      "current_price": 322.71,
+      "current_price": 334.77,
       "week_52_high": 488.54,
       "week_52_low": 202.59,
-      "daily_return": -2.0,
+      "daily_return": 4.58,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 59.29,
-      "last_updated": "2025-08-20T13:50:37.154252"
+      "distance_from_52_week_low_percent": 65.25,
+      "last_updated": "2025-08-22T14:26:13.818991"
     },
     {
       "symbol": "NVDA",
       "company_name": "NVIDIA Corporation",
-      "current_price": 171.82,
+      "current_price": 176.74,
       "week_52_high": 184.48,
       "week_52_low": 86.61,
-      "daily_return": -2.17,
+      "daily_return": 1.01,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 98.38,
-      "last_updated": "2025-08-20T13:50:37.526279"
+      "distance_from_52_week_low_percent": 104.06,
+      "last_updated": "2025-08-22T14:26:14.358631"
     },
     {
       "symbol": "JPM",
       "company_name": "JPMorgan Chase & Co.",
-      "current_price": 289.75,
+      "current_price": 291.54,
       "week_52_high": 301.29,
       "week_52_low": 196.2,
-      "daily_return": -0.31,
+      "daily_return": 0.02,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 47.68,
-      "last_updated": "2025-08-20T13:50:37.944955"
+      "distance_from_52_week_low_percent": 48.59,
+      "last_updated": "2025-08-22T14:26:14.938957"
     },
     {
       "symbol": "JNJ",
       "company_name": "Johnson & Johnson",
-      "current_price": 180.29,
-      "week_52_high": 180.48,
+      "current_price": 179.57,
+      "week_52_high": 181.16,
       "week_52_low": 138.38,
-      "daily_return": 1.4,
+      "daily_return": 0.35,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 30.29,
-      "last_updated": "2025-08-20T13:50:38.450552"
+      "distance_from_52_week_low_percent": 29.77,
+      "last_updated": "2025-08-22T14:26:15.800795"
     },
     {
       "symbol": "V",
       "company_name": "Visa Inc.",
-      "current_price": 346.86,
+      "current_price": 349.94,
       "week_52_high": 374.85,
       "week_52_low": 263.46,
-      "daily_return": 1.29,
+      "daily_return": 1.82,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 31.65,
-      "last_updated": "2025-08-20T13:50:38.767389"
+      "distance_from_52_week_low_percent": 32.82,
+      "last_updated": "2025-08-22T14:26:16.355855"
     },
     {
       "symbol": "PG",
       "company_name": "The Procter & Gamble Company",
-      "current_price": 160.46,
+      "current_price": 159.68,
       "week_52_high": 177.66,
       "week_52_low": 149.91,
-      "daily_return": 1.3,
+      "daily_return": 0.6,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 7.04,
-      "last_updated": "2025-08-20T13:50:39.232896"
+      "distance_from_52_week_low_percent": 6.52,
+      "last_updated": "2025-08-22T14:26:16.988548"
+    },
+    {
+      "symbol": "BRK-B",
+      "company_name": "Berkshire Hathaway Inc.",
+      "current_price": 490.45,
+      "week_52_high": 542.07,
+      "week_52_low": 437.9,
+      "daily_return": 0.38,
+      "is_at_52_week_low": "False",
+      "is_near_52_week_low_5_percent": "False",
+      "distance_from_52_week_low_percent": 12.0,
+      "last_updated": "2025-08-22T14:26:18.944404"
     }
   ]
 }
