@@ -3,7 +3,7 @@
     "total_stocks": 503,
     "successful_fetches": 503,
     "failed_fetches": 0,
-    "last_updated": "2025-08-23T06:12:04.981159",
+    "last_updated": "2025-08-23T06:36:46.227874",
     "data_source": "yfinance",
     "update_type": "sp500_full_with_bollinger_bands",
     "bollinger_bands_settings": {
@@ -48,7 +48,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.405561"
+      "last_updated": "2025-08-23T06:36:45.510378"
     },
     {
       "symbol": "AOS",
@@ -72,7 +72,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.407095"
+      "last_updated": "2025-08-23T06:36:45.511787"
     },
     {
       "symbol": "ABT",
@@ -96,7 +96,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.408378"
+      "last_updated": "2025-08-23T06:36:45.513027"
     },
     {
       "symbol": "ABBV",
@@ -120,7 +120,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.409564"
+      "last_updated": "2025-08-23T06:36:45.514211"
     },
     {
       "symbol": "ACN",
@@ -144,7 +144,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.410776"
+      "last_updated": "2025-08-23T06:36:45.515380"
     },
     {
       "symbol": "ADBE",
@@ -168,7 +168,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.411908"
+      "last_updated": "2025-08-23T06:36:45.516691"
     },
     {
       "symbol": "AMD",
@@ -192,7 +192,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.413108"
+      "last_updated": "2025-08-23T06:36:45.517879"
     },
     {
       "symbol": "AES",
@@ -216,7 +216,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.414236"
+      "last_updated": "2025-08-23T06:36:45.519034"
     },
     {
       "symbol": "AFL",
@@ -240,7 +240,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.415412"
+      "last_updated": "2025-08-23T06:36:45.520188"
     },
     {
       "symbol": "A",
@@ -264,7 +264,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.416560"
+      "last_updated": "2025-08-23T06:36:45.521372"
     },
     {
       "symbol": "APD",
@@ -288,7 +288,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.417799"
+      "last_updated": "2025-08-23T06:36:45.522611"
     },
     {
       "symbol": "ABNB",
@@ -312,7 +312,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.419445"
+      "last_updated": "2025-08-23T06:36:45.523805"
     },
     {
       "symbol": "AKAM",
@@ -336,7 +336,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.420848"
+      "last_updated": "2025-08-23T06:36:45.524981"
     },
     {
       "symbol": "ALB",
@@ -360,7 +360,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.422441"
+      "last_updated": "2025-08-23T06:36:45.526429"
     },
     {
       "symbol": "ARE",
@@ -384,7 +384,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.423640"
+      "last_updated": "2025-08-23T06:36:45.527648"
     },
     {
       "symbol": "ALGN",
@@ -408,7 +408,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.424847"
+      "last_updated": "2025-08-23T06:36:45.528812"
     },
     {
       "symbol": "ALLE",
@@ -432,7 +432,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.426012"
+      "last_updated": "2025-08-23T06:36:45.529949"
     },
     {
       "symbol": "LNT",
@@ -456,7 +456,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.427152"
+      "last_updated": "2025-08-23T06:36:45.531295"
     },
     {
       "symbol": "ALL",
@@ -480,7 +480,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.428324"
+      "last_updated": "2025-08-23T06:36:45.532628"
     },
     {
       "symbol": "GOOGL",
@@ -504,7 +504,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.429458"
+      "last_updated": "2025-08-23T06:36:45.533825"
     },
     {
       "symbol": "GOOG",
@@ -528,7 +528,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.430642"
+      "last_updated": "2025-08-23T06:36:45.534985"
     },
     {
       "symbol": "MO",
@@ -552,7 +552,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.431778"
+      "last_updated": "2025-08-23T06:36:45.536152"
     },
     {
       "symbol": "AMZN",
@@ -576,7 +576,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.432898"
+      "last_updated": "2025-08-23T06:36:45.537341"
     },
     {
       "symbol": "AMCR",
@@ -600,7 +600,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.434041"
+      "last_updated": "2025-08-23T06:36:45.538544"
     },
     {
       "symbol": "AEE",
@@ -624,7 +624,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.435131"
+      "last_updated": "2025-08-23T06:36:45.539730"
     },
     {
       "symbol": "AEP",
@@ -648,7 +648,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.436452"
+      "last_updated": "2025-08-23T06:36:45.541062"
     },
     {
       "symbol": "AXP",
@@ -672,7 +672,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.437591"
+      "last_updated": "2025-08-23T06:36:45.542209"
     },
     {
       "symbol": "AIG",
@@ -696,7 +696,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.438756"
+      "last_updated": "2025-08-23T06:36:45.543376"
     },
     {
       "symbol": "AMT",
@@ -720,7 +720,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.439933"
+      "last_updated": "2025-08-23T06:36:45.544539"
     },
     {
       "symbol": "AWK",
@@ -744,7 +744,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.441034"
+      "last_updated": "2025-08-23T06:36:45.545737"
     },
     {
       "symbol": "AMP",
@@ -768,7 +768,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.442145"
+      "last_updated": "2025-08-23T06:36:45.546874"
     },
     {
       "symbol": "AME",
@@ -792,7 +792,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.443237"
+      "last_updated": "2025-08-23T06:36:45.547997"
     },
     {
       "symbol": "AMGN",
@@ -816,7 +816,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.444315"
+      "last_updated": "2025-08-23T06:36:45.549133"
     },
     {
       "symbol": "APH",
@@ -840,7 +840,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.445432"
+      "last_updated": "2025-08-23T06:36:45.550302"
     },
     {
       "symbol": "ADI",
@@ -864,7 +864,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.446522"
+      "last_updated": "2025-08-23T06:36:45.551536"
     },
     {
       "symbol": "AON",
@@ -888,7 +888,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.447660"
+      "last_updated": "2025-08-23T06:36:45.552729"
     },
     {
       "symbol": "APA",
@@ -912,7 +912,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.448929"
+      "last_updated": "2025-08-23T06:36:45.553960"
     },
     {
       "symbol": "APO",
@@ -936,7 +936,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.450125"
+      "last_updated": "2025-08-23T06:36:45.555095"
     },
     {
       "symbol": "AAPL",
@@ -960,7 +960,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.451228"
+      "last_updated": "2025-08-23T06:36:45.556229"
     },
     {
       "symbol": "AMAT",
@@ -984,7 +984,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.452349"
+      "last_updated": "2025-08-23T06:36:45.557368"
     },
     {
       "symbol": "APTV",
@@ -1008,7 +1008,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.453477"
+      "last_updated": "2025-08-23T06:36:45.558518"
     },
     {
       "symbol": "ACGL",
@@ -1032,7 +1032,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.454585"
+      "last_updated": "2025-08-23T06:36:45.559677"
     },
     {
       "symbol": "ADM",
@@ -1056,7 +1056,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.455692"
+      "last_updated": "2025-08-23T06:36:45.560841"
     },
     {
       "symbol": "ANET",
@@ -1080,7 +1080,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.456825"
+      "last_updated": "2025-08-23T06:36:45.562022"
     },
     {
       "symbol": "AJG",
@@ -1104,7 +1104,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.458024"
+      "last_updated": "2025-08-23T06:36:45.563208"
     },
     {
       "symbol": "AIZ",
@@ -1128,7 +1128,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.459120"
+      "last_updated": "2025-08-23T06:36:45.564339"
     },
     {
       "symbol": "T",
@@ -1152,7 +1152,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.460266"
+      "last_updated": "2025-08-23T06:36:45.565475"
     },
     {
       "symbol": "ATO",
@@ -1176,7 +1176,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.461526"
+      "last_updated": "2025-08-23T06:36:45.566834"
     },
     {
       "symbol": "ADSK",
@@ -1200,7 +1200,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.462647"
+      "last_updated": "2025-08-23T06:36:45.567974"
     },
     {
       "symbol": "ADP",
@@ -1224,7 +1224,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.463778"
+      "last_updated": "2025-08-23T06:36:45.569121"
     },
     {
       "symbol": "AZO",
@@ -1248,7 +1248,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.464852"
+      "last_updated": "2025-08-23T06:36:45.570258"
     },
     {
       "symbol": "AVB",
@@ -1272,7 +1272,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.465949"
+      "last_updated": "2025-08-23T06:36:45.571386"
     },
     {
       "symbol": "AVY",
@@ -1296,7 +1296,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.467021"
+      "last_updated": "2025-08-23T06:36:45.572617"
     },
     {
       "symbol": "AXON",
@@ -1320,7 +1320,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.468089"
+      "last_updated": "2025-08-23T06:36:45.573784"
     },
     {
       "symbol": "BKR",
@@ -1344,7 +1344,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.469232"
+      "last_updated": "2025-08-23T06:36:45.574902"
     },
     {
       "symbol": "BALL",
@@ -1368,7 +1368,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.470309"
+      "last_updated": "2025-08-23T06:36:45.576070"
     },
     {
       "symbol": "BAC",
@@ -1392,7 +1392,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.471431"
+      "last_updated": "2025-08-23T06:36:45.577191"
     },
     {
       "symbol": "BAX",
@@ -1416,7 +1416,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.472533"
+      "last_updated": "2025-08-23T06:36:45.578319"
     },
     {
       "symbol": "BDX",
@@ -1440,7 +1440,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.475612"
+      "last_updated": "2025-08-23T06:36:45.579599"
     },
     {
       "symbol": "BRK-B",
@@ -1464,7 +1464,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.477055"
+      "last_updated": "2025-08-23T06:36:45.580762"
     },
     {
       "symbol": "BBY",
@@ -1488,7 +1488,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.478262"
+      "last_updated": "2025-08-23T06:36:45.581890"
     },
     {
       "symbol": "TECH",
@@ -1512,7 +1512,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.479395"
+      "last_updated": "2025-08-23T06:36:45.583115"
     },
     {
       "symbol": "BIIB",
@@ -1536,7 +1536,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.480517"
+      "last_updated": "2025-08-23T06:36:45.584305"
     },
     {
       "symbol": "BLK",
@@ -1560,7 +1560,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.481682"
+      "last_updated": "2025-08-23T06:36:45.585448"
     },
     {
       "symbol": "BX",
@@ -1584,7 +1584,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.482964"
+      "last_updated": "2025-08-23T06:36:45.586660"
     },
     {
       "symbol": "XYZ",
@@ -1608,7 +1608,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.484688"
+      "last_updated": "2025-08-23T06:36:45.587842"
     },
     {
       "symbol": "BK",
@@ -1632,7 +1632,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.485974"
+      "last_updated": "2025-08-23T06:36:45.589007"
     },
     {
       "symbol": "BA",
@@ -1656,7 +1656,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.487144"
+      "last_updated": "2025-08-23T06:36:45.590132"
     },
     {
       "symbol": "BKNG",
@@ -1680,7 +1680,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.488357"
+      "last_updated": "2025-08-23T06:36:45.591253"
     },
     {
       "symbol": "BSX",
@@ -1704,7 +1704,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.489642"
+      "last_updated": "2025-08-23T06:36:45.592589"
     },
     {
       "symbol": "BMY",
@@ -1728,7 +1728,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.490863"
+      "last_updated": "2025-08-23T06:36:45.593754"
     },
     {
       "symbol": "AVGO",
@@ -1752,7 +1752,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.491997"
+      "last_updated": "2025-08-23T06:36:45.594869"
     },
     {
       "symbol": "BR",
@@ -1776,7 +1776,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.493148"
+      "last_updated": "2025-08-23T06:36:45.596008"
     },
     {
       "symbol": "BRO",
@@ -1800,7 +1800,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.494265"
+      "last_updated": "2025-08-23T06:36:45.597129"
     },
     {
       "symbol": "BF-B",
@@ -1824,7 +1824,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.495328"
+      "last_updated": "2025-08-23T06:36:45.598236"
     },
     {
       "symbol": "BLDR",
@@ -1848,7 +1848,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.496425"
+      "last_updated": "2025-08-23T06:36:45.599413"
     },
     {
       "symbol": "BG",
@@ -1872,7 +1872,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.497490"
+      "last_updated": "2025-08-23T06:36:45.600581"
     },
     {
       "symbol": "BXP",
@@ -1896,7 +1896,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.498546"
+      "last_updated": "2025-08-23T06:36:45.601705"
     },
     {
       "symbol": "CHRW",
@@ -1920,7 +1920,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.499657"
+      "last_updated": "2025-08-23T06:36:45.602883"
     },
     {
       "symbol": "CDNS",
@@ -1944,7 +1944,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.500768"
+      "last_updated": "2025-08-23T06:36:45.604043"
     },
     {
       "symbol": "CZR",
@@ -1968,7 +1968,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.501984"
+      "last_updated": "2025-08-23T06:36:45.605283"
     },
     {
       "symbol": "CPT",
@@ -1992,7 +1992,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.503067"
+      "last_updated": "2025-08-23T06:36:45.606444"
     },
     {
       "symbol": "CPB",
@@ -2016,7 +2016,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.504166"
+      "last_updated": "2025-08-23T06:36:45.607598"
     },
     {
       "symbol": "COF",
@@ -2040,7 +2040,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.505248"
+      "last_updated": "2025-08-23T06:36:45.608723"
     },
     {
       "symbol": "CAH",
@@ -2064,7 +2064,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.506310"
+      "last_updated": "2025-08-23T06:36:45.609852"
     },
     {
       "symbol": "KMX",
@@ -2088,7 +2088,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.507412"
+      "last_updated": "2025-08-23T06:36:45.610974"
     },
     {
       "symbol": "CCL",
@@ -2112,7 +2112,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.508823"
+      "last_updated": "2025-08-23T06:36:45.612185"
     },
     {
       "symbol": "CARR",
@@ -2136,7 +2136,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.510505"
+      "last_updated": "2025-08-23T06:36:45.613366"
     },
     {
       "symbol": "CAT",
@@ -2160,7 +2160,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.512212"
+      "last_updated": "2025-08-23T06:36:45.614486"
     },
     {
       "symbol": "CBOE",
@@ -2184,7 +2184,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.513416"
+      "last_updated": "2025-08-23T06:36:45.615686"
     },
     {
       "symbol": "CBRE",
@@ -2208,7 +2208,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.514599"
+      "last_updated": "2025-08-23T06:36:45.616830"
     },
     {
       "symbol": "CDW",
@@ -2232,7 +2232,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.515898"
+      "last_updated": "2025-08-23T06:36:45.618079"
     },
     {
       "symbol": "COR",
@@ -2256,7 +2256,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.517060"
+      "last_updated": "2025-08-23T06:36:45.619268"
     },
     {
       "symbol": "CNC",
@@ -2280,7 +2280,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.518184"
+      "last_updated": "2025-08-23T06:36:45.620446"
     },
     {
       "symbol": "CNP",
@@ -2304,7 +2304,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.519345"
+      "last_updated": "2025-08-23T06:36:45.621634"
     },
     {
       "symbol": "CF",
@@ -2328,7 +2328,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.520476"
+      "last_updated": "2025-08-23T06:36:45.622807"
     },
     {
       "symbol": "CRL",
@@ -2352,7 +2352,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.521574"
+      "last_updated": "2025-08-23T06:36:45.623980"
     },
     {
       "symbol": "SCHW",
@@ -2376,7 +2376,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.522808"
+      "last_updated": "2025-08-23T06:36:45.625112"
     },
     {
       "symbol": "CHTR",
@@ -2400,7 +2400,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.523939"
+      "last_updated": "2025-08-23T06:36:45.626239"
     },
     {
       "symbol": "CVX",
@@ -2424,7 +2424,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.525068"
+      "last_updated": "2025-08-23T06:36:45.627361"
     },
     {
       "symbol": "CMG",
@@ -2448,7 +2448,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.526214"
+      "last_updated": "2025-08-23T06:36:45.628502"
     },
     {
       "symbol": "CB",
@@ -2472,7 +2472,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.527329"
+      "last_updated": "2025-08-23T06:36:45.629634"
     },
     {
       "symbol": "CHD",
@@ -2496,7 +2496,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.528600"
+      "last_updated": "2025-08-23T06:36:45.630841"
     },
     {
       "symbol": "CI",
@@ -2520,7 +2520,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.529848"
+      "last_updated": "2025-08-23T06:36:45.632065"
     },
     {
       "symbol": "CINF",
@@ -2544,7 +2544,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.531032"
+      "last_updated": "2025-08-23T06:36:45.633234"
     },
     {
       "symbol": "CTAS",
@@ -2568,7 +2568,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.532132"
+      "last_updated": "2025-08-23T06:36:45.634368"
     },
     {
       "symbol": "CSCO",
@@ -2592,7 +2592,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.533267"
+      "last_updated": "2025-08-23T06:36:45.635511"
     },
     {
       "symbol": "C",
@@ -2616,7 +2616,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.534403"
+      "last_updated": "2025-08-23T06:36:45.636692"
     },
     {
       "symbol": "CFG",
@@ -2640,7 +2640,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.535463"
+      "last_updated": "2025-08-23T06:36:45.638391"
     },
     {
       "symbol": "CLX",
@@ -2664,7 +2664,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.536529"
+      "last_updated": "2025-08-23T06:36:45.639797"
     },
     {
       "symbol": "CME",
@@ -2688,7 +2688,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.537599"
+      "last_updated": "2025-08-23T06:36:45.641063"
     },
     {
       "symbol": "CMS",
@@ -2712,7 +2712,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.538657"
+      "last_updated": "2025-08-23T06:36:45.642282"
     },
     {
       "symbol": "KO",
@@ -2736,7 +2736,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.539855"
+      "last_updated": "2025-08-23T06:36:45.643530"
     },
     {
       "symbol": "CTSH",
@@ -2760,7 +2760,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.541025"
+      "last_updated": "2025-08-23T06:36:45.644868"
     },
     {
       "symbol": "COIN",
@@ -2784,7 +2784,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.542078"
+      "last_updated": "2025-08-23T06:36:45.646027"
     },
     {
       "symbol": "CL",
@@ -2808,7 +2808,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.543169"
+      "last_updated": "2025-08-23T06:36:45.647204"
     },
     {
       "symbol": "CMCSA",
@@ -2832,7 +2832,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.544294"
+      "last_updated": "2025-08-23T06:36:45.648392"
     },
     {
       "symbol": "CAG",
@@ -2856,7 +2856,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.545372"
+      "last_updated": "2025-08-23T06:36:45.649668"
     },
     {
       "symbol": "COP",
@@ -2880,7 +2880,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.546429"
+      "last_updated": "2025-08-23T06:36:45.651085"
     },
     {
       "symbol": "ED",
@@ -2904,7 +2904,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.547554"
+      "last_updated": "2025-08-23T06:36:45.652512"
     },
     {
       "symbol": "STZ",
@@ -2928,7 +2928,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.548746"
+      "last_updated": "2025-08-23T06:36:45.653718"
     },
     {
       "symbol": "CEG",
@@ -2952,7 +2952,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.549811"
+      "last_updated": "2025-08-23T06:36:45.654936"
     },
     {
       "symbol": "COO",
@@ -2976,7 +2976,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.550895"
+      "last_updated": "2025-08-23T06:36:45.656054"
     },
     {
       "symbol": "CPRT",
@@ -3000,7 +3000,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.551980"
+      "last_updated": "2025-08-23T06:36:45.657216"
     },
     {
       "symbol": "GLW",
@@ -3024,7 +3024,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.553162"
+      "last_updated": "2025-08-23T06:36:45.658459"
     },
     {
       "symbol": "CPAY",
@@ -3048,7 +3048,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.554281"
+      "last_updated": "2025-08-23T06:36:45.659621"
     },
     {
       "symbol": "CTVA",
@@ -3072,7 +3072,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.555350"
+      "last_updated": "2025-08-23T06:36:45.660906"
     },
     {
       "symbol": "CSGP",
@@ -3096,7 +3096,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.556438"
+      "last_updated": "2025-08-23T06:36:45.662052"
     },
     {
       "symbol": "COST",
@@ -3120,7 +3120,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.557493"
+      "last_updated": "2025-08-23T06:36:45.663224"
     },
     {
       "symbol": "CTRA",
@@ -3144,7 +3144,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.558590"
+      "last_updated": "2025-08-23T06:36:45.664402"
     },
     {
       "symbol": "CRWD",
@@ -3168,7 +3168,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.559674"
+      "last_updated": "2025-08-23T06:36:45.665535"
     },
     {
       "symbol": "CCI",
@@ -3192,7 +3192,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.560782"
+      "last_updated": "2025-08-23T06:36:45.666763"
     },
     {
       "symbol": "CSX",
@@ -3216,7 +3216,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.561884"
+      "last_updated": "2025-08-23T06:36:45.667930"
     },
     {
       "symbol": "CMI",
@@ -3240,7 +3240,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.562929"
+      "last_updated": "2025-08-23T06:36:45.669097"
     },
     {
       "symbol": "CVS",
@@ -3264,7 +3264,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.563996"
+      "last_updated": "2025-08-23T06:36:45.670288"
     },
     {
       "symbol": "DHR",
@@ -3288,7 +3288,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.565200"
+      "last_updated": "2025-08-23T06:36:45.673235"
     },
     {
       "symbol": "DRI",
@@ -3312,7 +3312,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.566264"
+      "last_updated": "2025-08-23T06:36:45.674322"
     },
     {
       "symbol": "DDOG",
@@ -3336,7 +3336,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.567314"
+      "last_updated": "2025-08-23T06:36:45.675458"
     },
     {
       "symbol": "DVA",
@@ -3360,7 +3360,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.568407"
+      "last_updated": "2025-08-23T06:36:45.676598"
     },
     {
       "symbol": "DAY",
@@ -3384,7 +3384,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.569580"
+      "last_updated": "2025-08-23T06:36:45.677760"
     },
     {
       "symbol": "DECK",
@@ -3408,7 +3408,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.570630"
+      "last_updated": "2025-08-23T06:36:45.678882"
     },
     {
       "symbol": "DE",
@@ -3432,7 +3432,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.571743"
+      "last_updated": "2025-08-23T06:36:45.680036"
     },
     {
       "symbol": "DELL",
@@ -3456,7 +3456,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.572786"
+      "last_updated": "2025-08-23T06:36:45.681157"
     },
     {
       "symbol": "DAL",
@@ -3480,7 +3480,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.573821"
+      "last_updated": "2025-08-23T06:36:45.682354"
     },
     {
       "symbol": "DVN",
@@ -3504,7 +3504,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.574902"
+      "last_updated": "2025-08-23T06:36:45.683540"
     },
     {
       "symbol": "DXCM",
@@ -3528,7 +3528,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.575957"
+      "last_updated": "2025-08-23T06:36:45.684752"
     },
     {
       "symbol": "FANG",
@@ -3552,7 +3552,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.577130"
+      "last_updated": "2025-08-23T06:36:45.685899"
     },
     {
       "symbol": "DLR",
@@ -3576,7 +3576,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.578246"
+      "last_updated": "2025-08-23T06:36:45.687016"
     },
     {
       "symbol": "DG",
@@ -3600,7 +3600,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.579317"
+      "last_updated": "2025-08-23T06:36:45.688143"
     },
     {
       "symbol": "DLTR",
@@ -3624,7 +3624,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.580428"
+      "last_updated": "2025-08-23T06:36:45.689265"
     },
     {
       "symbol": "D",
@@ -3648,7 +3648,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.581589"
+      "last_updated": "2025-08-23T06:36:45.690439"
     },
     {
       "symbol": "DPZ",
@@ -3672,7 +3672,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.582644"
+      "last_updated": "2025-08-23T06:36:45.691662"
     },
     {
       "symbol": "DASH",
@@ -3696,7 +3696,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.583740"
+      "last_updated": "2025-08-23T06:36:45.692854"
     },
     {
       "symbol": "DOV",
@@ -3720,7 +3720,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.584820"
+      "last_updated": "2025-08-23T06:36:45.694021"
     },
     {
       "symbol": "DOW",
@@ -3744,7 +3744,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.585871"
+      "last_updated": "2025-08-23T06:36:45.695157"
     },
     {
       "symbol": "DHI",
@@ -3768,7 +3768,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.586917"
+      "last_updated": "2025-08-23T06:36:45.696206"
     },
     {
       "symbol": "DTE",
@@ -3792,7 +3792,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.588011"
+      "last_updated": "2025-08-23T06:36:45.697270"
     },
     {
       "symbol": "DUK",
@@ -3816,7 +3816,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.589237"
+      "last_updated": "2025-08-23T06:36:45.698490"
     },
     {
       "symbol": "DD",
@@ -3840,7 +3840,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.590385"
+      "last_updated": "2025-08-23T06:36:45.699647"
     },
     {
       "symbol": "EMN",
@@ -3864,7 +3864,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.591452"
+      "last_updated": "2025-08-23T06:36:45.700970"
     },
     {
       "symbol": "ETN",
@@ -3888,7 +3888,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.592533"
+      "last_updated": "2025-08-23T06:36:45.702175"
     },
     {
       "symbol": "EBAY",
@@ -3912,7 +3912,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.593626"
+      "last_updated": "2025-08-23T06:36:45.703428"
     },
     {
       "symbol": "ECL",
@@ -3936,7 +3936,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.594688"
+      "last_updated": "2025-08-23T06:36:45.704510"
     },
     {
       "symbol": "EIX",
@@ -3960,7 +3960,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.595901"
+      "last_updated": "2025-08-23T06:36:45.705617"
     },
     {
       "symbol": "EW",
@@ -3984,7 +3984,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.596981"
+      "last_updated": "2025-08-23T06:36:45.706731"
     },
     {
       "symbol": "EA",
@@ -4008,7 +4008,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.598060"
+      "last_updated": "2025-08-23T06:36:45.707859"
     },
     {
       "symbol": "ELV",
@@ -4032,7 +4032,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.599141"
+      "last_updated": "2025-08-23T06:36:45.708975"
     },
     {
       "symbol": "EMR",
@@ -4056,7 +4056,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.600240"
+      "last_updated": "2025-08-23T06:36:45.711771"
     },
     {
       "symbol": "ENPH",
@@ -4080,7 +4080,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.601419"
+      "last_updated": "2025-08-23T06:36:45.713775"
     },
     {
       "symbol": "ETR",
@@ -4104,7 +4104,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.602534"
+      "last_updated": "2025-08-23T06:36:45.715297"
     },
     {
       "symbol": "EOG",
@@ -4128,7 +4128,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.603594"
+      "last_updated": "2025-08-23T06:36:45.716508"
     },
     {
       "symbol": "EPAM",
@@ -4152,7 +4152,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.604733"
+      "last_updated": "2025-08-23T06:36:45.717846"
     },
     {
       "symbol": "EQT",
@@ -4176,7 +4176,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.606833"
+      "last_updated": "2025-08-23T06:36:45.719058"
     },
     {
       "symbol": "EFX",
@@ -4200,7 +4200,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.608862"
+      "last_updated": "2025-08-23T06:36:45.720182"
     },
     {
       "symbol": "EQIX",
@@ -4224,7 +4224,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.612064"
+      "last_updated": "2025-08-23T06:36:45.721352"
     },
     {
       "symbol": "EQR",
@@ -4248,7 +4248,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.613339"
+      "last_updated": "2025-08-23T06:36:45.722541"
     },
     {
       "symbol": "ERIE",
@@ -4272,7 +4272,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.614540"
+      "last_updated": "2025-08-23T06:36:45.723725"
     },
     {
       "symbol": "ESS",
@@ -4296,7 +4296,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.615685"
+      "last_updated": "2025-08-23T06:36:45.724915"
     },
     {
       "symbol": "EL",
@@ -4320,7 +4320,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.616832"
+      "last_updated": "2025-08-23T06:36:45.726064"
     },
     {
       "symbol": "EG",
@@ -4344,7 +4344,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.618110"
+      "last_updated": "2025-08-23T06:36:45.727342"
     },
     {
       "symbol": "EVRG",
@@ -4368,7 +4368,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.619243"
+      "last_updated": "2025-08-23T06:36:45.728478"
     },
     {
       "symbol": "ES",
@@ -4392,7 +4392,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.620368"
+      "last_updated": "2025-08-23T06:36:45.729626"
     },
     {
       "symbol": "EXC",
@@ -4416,7 +4416,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.621474"
+      "last_updated": "2025-08-23T06:36:45.730787"
     },
     {
       "symbol": "EXE",
@@ -4440,7 +4440,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.622542"
+      "last_updated": "2025-08-23T06:36:45.731983"
     },
     {
       "symbol": "EXPE",
@@ -4464,7 +4464,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.623625"
+      "last_updated": "2025-08-23T06:36:45.733141"
     },
     {
       "symbol": "EXPD",
@@ -4488,7 +4488,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.624679"
+      "last_updated": "2025-08-23T06:36:45.734297"
     },
     {
       "symbol": "EXR",
@@ -4512,7 +4512,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.625760"
+      "last_updated": "2025-08-23T06:36:45.735412"
     },
     {
       "symbol": "XOM",
@@ -4536,7 +4536,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.626851"
+      "last_updated": "2025-08-23T06:36:45.736485"
     },
     {
       "symbol": "FFIV",
@@ -4560,7 +4560,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.627924"
+      "last_updated": "2025-08-23T06:36:45.737634"
     },
     {
       "symbol": "FDS",
@@ -4584,7 +4584,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.629024"
+      "last_updated": "2025-08-23T06:36:45.738784"
     },
     {
       "symbol": "FICO",
@@ -4608,7 +4608,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.631294"
+      "last_updated": "2025-08-23T06:36:45.740013"
     },
     {
       "symbol": "FAST",
@@ -4632,7 +4632,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.632438"
+      "last_updated": "2025-08-23T06:36:45.741130"
     },
     {
       "symbol": "FRT",
@@ -4656,7 +4656,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.633516"
+      "last_updated": "2025-08-23T06:36:45.742272"
     },
     {
       "symbol": "FDX",
@@ -4680,7 +4680,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.634623"
+      "last_updated": "2025-08-23T06:36:45.743438"
     },
     {
       "symbol": "FIS",
@@ -4704,7 +4704,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.635691"
+      "last_updated": "2025-08-23T06:36:45.744582"
     },
     {
       "symbol": "FITB",
@@ -4728,7 +4728,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.636765"
+      "last_updated": "2025-08-23T06:36:45.745713"
     },
     {
       "symbol": "FSLR",
@@ -4752,7 +4752,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.637863"
+      "last_updated": "2025-08-23T06:36:45.746828"
     },
     {
       "symbol": "FE",
@@ -4776,7 +4776,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.638937"
+      "last_updated": "2025-08-23T06:36:45.747976"
     },
     {
       "symbol": "FI",
@@ -4800,7 +4800,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.640034"
+      "last_updated": "2025-08-23T06:36:45.749102"
     },
     {
       "symbol": "F",
@@ -4824,7 +4824,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.641130"
+      "last_updated": "2025-08-23T06:36:45.750206"
     },
     {
       "symbol": "FTNT",
@@ -4848,7 +4848,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.642207"
+      "last_updated": "2025-08-23T06:36:45.751343"
     },
     {
       "symbol": "FTV",
@@ -4872,7 +4872,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.643399"
+      "last_updated": "2025-08-23T06:36:45.752703"
     },
     {
       "symbol": "FOXA",
@@ -4896,7 +4896,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.644486"
+      "last_updated": "2025-08-23T06:36:45.753849"
     },
     {
       "symbol": "FOX",
@@ -4920,7 +4920,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.645639"
+      "last_updated": "2025-08-23T06:36:45.754945"
     },
     {
       "symbol": "BEN",
@@ -4944,7 +4944,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.646825"
+      "last_updated": "2025-08-23T06:36:45.756009"
     },
     {
       "symbol": "FCX",
@@ -4968,7 +4968,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.647909"
+      "last_updated": "2025-08-23T06:36:45.757157"
     },
     {
       "symbol": "GRMN",
@@ -4992,7 +4992,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.648956"
+      "last_updated": "2025-08-23T06:36:45.758236"
     },
     {
       "symbol": "IT",
@@ -5016,7 +5016,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.650011"
+      "last_updated": "2025-08-23T06:36:45.759295"
     },
     {
       "symbol": "GE",
@@ -5040,7 +5040,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.651089"
+      "last_updated": "2025-08-23T06:36:45.760426"
     },
     {
       "symbol": "GEHC",
@@ -5064,7 +5064,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.652176"
+      "last_updated": "2025-08-23T06:36:45.761520"
     },
     {
       "symbol": "GEV",
@@ -5088,7 +5088,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.653244"
+      "last_updated": "2025-08-23T06:36:45.762609"
     },
     {
       "symbol": "GEN",
@@ -5112,7 +5112,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.654342"
+      "last_updated": "2025-08-23T06:36:45.763778"
     },
     {
       "symbol": "GNRC",
@@ -5136,7 +5136,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.655522"
+      "last_updated": "2025-08-23T06:36:45.765005"
     },
     {
       "symbol": "GD",
@@ -5160,7 +5160,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.656645"
+      "last_updated": "2025-08-23T06:36:45.766167"
     },
     {
       "symbol": "GIS",
@@ -5184,7 +5184,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.657764"
+      "last_updated": "2025-08-23T06:36:45.767361"
     },
     {
       "symbol": "GM",
@@ -5208,7 +5208,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.658808"
+      "last_updated": "2025-08-23T06:36:45.768520"
     },
     {
       "symbol": "GPC",
@@ -5232,7 +5232,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.659915"
+      "last_updated": "2025-08-23T06:36:45.769647"
     },
     {
       "symbol": "GILD",
@@ -5256,7 +5256,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.660979"
+      "last_updated": "2025-08-23T06:36:45.770780"
     },
     {
       "symbol": "GPN",
@@ -5280,7 +5280,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.662019"
+      "last_updated": "2025-08-23T06:36:45.771957"
     },
     {
       "symbol": "GL",
@@ -5304,7 +5304,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.663085"
+      "last_updated": "2025-08-23T06:36:45.773113"
     },
     {
       "symbol": "GDDY",
@@ -5328,7 +5328,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.664135"
+      "last_updated": "2025-08-23T06:36:45.774249"
     },
     {
       "symbol": "GS",
@@ -5352,7 +5352,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.665175"
+      "last_updated": "2025-08-23T06:36:45.775425"
     },
     {
       "symbol": "HAL",
@@ -5376,7 +5376,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.666245"
+      "last_updated": "2025-08-23T06:36:45.776605"
     },
     {
       "symbol": "HIG",
@@ -5400,7 +5400,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.667400"
+      "last_updated": "2025-08-23T06:36:45.777802"
     },
     {
       "symbol": "HAS",
@@ -5424,7 +5424,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.668488"
+      "last_updated": "2025-08-23T06:36:45.778992"
     },
     {
       "symbol": "HCA",
@@ -5448,7 +5448,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.669546"
+      "last_updated": "2025-08-23T06:36:45.780231"
     },
     {
       "symbol": "DOC",
@@ -5472,7 +5472,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.670591"
+      "last_updated": "2025-08-23T06:36:45.781386"
     },
     {
       "symbol": "HSIC",
@@ -5496,7 +5496,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.671678"
+      "last_updated": "2025-08-23T06:36:45.782550"
     },
     {
       "symbol": "HSY",
@@ -5520,7 +5520,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.672765"
+      "last_updated": "2025-08-23T06:36:45.783722"
     },
     {
       "symbol": "HPE",
@@ -5544,7 +5544,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.673825"
+      "last_updated": "2025-08-23T06:36:45.784863"
     },
     {
       "symbol": "HLT",
@@ -5568,7 +5568,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.674878"
+      "last_updated": "2025-08-23T06:36:45.785943"
     },
     {
       "symbol": "HOLX",
@@ -5592,7 +5592,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.675991"
+      "last_updated": "2025-08-23T06:36:45.787067"
     },
     {
       "symbol": "HD",
@@ -5616,7 +5616,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.677071"
+      "last_updated": "2025-08-23T06:36:45.788177"
     },
     {
       "symbol": "HON",
@@ -5640,7 +5640,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.678116"
+      "last_updated": "2025-08-23T06:36:45.789335"
     },
     {
       "symbol": "HRL",
@@ -5664,7 +5664,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.679265"
+      "last_updated": "2025-08-23T06:36:45.790614"
     },
     {
       "symbol": "HST",
@@ -5688,7 +5688,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.680420"
+      "last_updated": "2025-08-23T06:36:45.791733"
     },
     {
       "symbol": "HWM",
@@ -5712,7 +5712,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.681484"
+      "last_updated": "2025-08-23T06:36:45.792903"
     },
     {
       "symbol": "HPQ",
@@ -5736,7 +5736,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.682551"
+      "last_updated": "2025-08-23T06:36:45.794065"
     },
     {
       "symbol": "HUBB",
@@ -5760,7 +5760,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.683626"
+      "last_updated": "2025-08-23T06:36:45.795247"
     },
     {
       "symbol": "HUM",
@@ -5784,7 +5784,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.684664"
+      "last_updated": "2025-08-23T06:36:45.796380"
     },
     {
       "symbol": "HBAN",
@@ -5808,7 +5808,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.685791"
+      "last_updated": "2025-08-23T06:36:45.797515"
     },
     {
       "symbol": "HII",
@@ -5832,7 +5832,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.686884"
+      "last_updated": "2025-08-23T06:36:45.798670"
     },
     {
       "symbol": "IBM",
@@ -5856,7 +5856,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.687940"
+      "last_updated": "2025-08-23T06:36:45.799796"
     },
     {
       "symbol": "IEX",
@@ -5880,7 +5880,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.688973"
+      "last_updated": "2025-08-23T06:36:45.801075"
     },
     {
       "symbol": "IDXX",
@@ -5904,7 +5904,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.690024"
+      "last_updated": "2025-08-23T06:36:45.802253"
     },
     {
       "symbol": "ITW",
@@ -5928,7 +5928,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.691206"
+      "last_updated": "2025-08-23T06:36:45.803516"
     },
     {
       "symbol": "INCY",
@@ -5952,7 +5952,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.692341"
+      "last_updated": "2025-08-23T06:36:45.804662"
     },
     {
       "symbol": "IR",
@@ -5976,7 +5976,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.693453"
+      "last_updated": "2025-08-23T06:36:45.805823"
     },
     {
       "symbol": "PODD",
@@ -6000,7 +6000,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.694511"
+      "last_updated": "2025-08-23T06:36:45.806994"
     },
     {
       "symbol": "INTC",
@@ -6024,7 +6024,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.695606"
+      "last_updated": "2025-08-23T06:36:45.808145"
     },
     {
       "symbol": "ICE",
@@ -6048,7 +6048,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.696675"
+      "last_updated": "2025-08-23T06:36:45.809513"
     },
     {
       "symbol": "IFF",
@@ -6072,7 +6072,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.697783"
+      "last_updated": "2025-08-23T06:36:45.810794"
     },
     {
       "symbol": "IP",
@@ -6096,7 +6096,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.698871"
+      "last_updated": "2025-08-23T06:36:45.812043"
     },
     {
       "symbol": "IPG",
@@ -6120,7 +6120,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.699952"
+      "last_updated": "2025-08-23T06:36:45.813206"
     },
     {
       "symbol": "INTU",
@@ -6144,7 +6144,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.701022"
+      "last_updated": "2025-08-23T06:36:45.814364"
     },
     {
       "symbol": "ISRG",
@@ -6168,7 +6168,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.702104"
+      "last_updated": "2025-08-23T06:36:45.815491"
     },
     {
       "symbol": "IVZ",
@@ -6192,7 +6192,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.703699"
+      "last_updated": "2025-08-23T06:36:45.816725"
     },
     {
       "symbol": "INVH",
@@ -6216,7 +6216,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.705647"
+      "last_updated": "2025-08-23T06:36:45.817871"
     },
     {
       "symbol": "IQV",
@@ -6240,7 +6240,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.706906"
+      "last_updated": "2025-08-23T06:36:45.818917"
     },
     {
       "symbol": "IRM",
@@ -6264,7 +6264,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.708022"
+      "last_updated": "2025-08-23T06:36:45.820020"
     },
     {
       "symbol": "JBHT",
@@ -6288,7 +6288,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.709187"
+      "last_updated": "2025-08-23T06:36:45.821126"
     },
     {
       "symbol": "JBL",
@@ -6312,7 +6312,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.710277"
+      "last_updated": "2025-08-23T06:36:45.822175"
     },
     {
       "symbol": "JKHY",
@@ -6336,7 +6336,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.711391"
+      "last_updated": "2025-08-23T06:36:45.823350"
     },
     {
       "symbol": "J",
@@ -6360,7 +6360,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.712465"
+      "last_updated": "2025-08-23T06:36:45.824549"
     },
     {
       "symbol": "JNJ",
@@ -6384,7 +6384,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.713536"
+      "last_updated": "2025-08-23T06:36:45.825698"
     },
     {
       "symbol": "JCI",
@@ -6408,7 +6408,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.714618"
+      "last_updated": "2025-08-23T06:36:45.826835"
     },
     {
       "symbol": "JPM",
@@ -6432,7 +6432,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.715652"
+      "last_updated": "2025-08-23T06:36:45.827955"
     },
     {
       "symbol": "K",
@@ -6456,7 +6456,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.716878"
+      "last_updated": "2025-08-23T06:36:45.830187"
     },
     {
       "symbol": "KVUE",
@@ -6480,7 +6480,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.718276"
+      "last_updated": "2025-08-23T06:36:45.831306"
     },
     {
       "symbol": "KDP",
@@ -6504,7 +6504,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.719476"
+      "last_updated": "2025-08-23T06:36:45.832524"
     },
     {
       "symbol": "KEY",
@@ -6528,7 +6528,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.720628"
+      "last_updated": "2025-08-23T06:36:45.833735"
     },
     {
       "symbol": "KEYS",
@@ -6552,7 +6552,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.721814"
+      "last_updated": "2025-08-23T06:36:45.834876"
     },
     {
       "symbol": "KMB",
@@ -6576,7 +6576,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.722935"
+      "last_updated": "2025-08-23T06:36:45.836064"
     },
     {
       "symbol": "KIM",
@@ -6600,7 +6600,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.724034"
+      "last_updated": "2025-08-23T06:36:45.837216"
     },
     {
       "symbol": "KMI",
@@ -6624,7 +6624,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.725146"
+      "last_updated": "2025-08-23T06:36:45.838355"
     },
     {
       "symbol": "KKR",
@@ -6648,7 +6648,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.726250"
+      "last_updated": "2025-08-23T06:36:45.839482"
     },
     {
       "symbol": "KLAC",
@@ -6672,7 +6672,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.727369"
+      "last_updated": "2025-08-23T06:36:45.840693"
     },
     {
       "symbol": "KHC",
@@ -6696,7 +6696,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.728426"
+      "last_updated": "2025-08-23T06:36:45.841748"
     },
     {
       "symbol": "KR",
@@ -6720,7 +6720,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.729572"
+      "last_updated": "2025-08-23T06:36:45.842958"
     },
     {
       "symbol": "LHX",
@@ -6744,7 +6744,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.730658"
+      "last_updated": "2025-08-23T06:36:45.844083"
     },
     {
       "symbol": "LH",
@@ -6768,7 +6768,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.731714"
+      "last_updated": "2025-08-23T06:36:45.845217"
     },
     {
       "symbol": "LRCX",
@@ -6792,7 +6792,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.732820"
+      "last_updated": "2025-08-23T06:36:45.846336"
     },
     {
       "symbol": "LW",
@@ -6816,7 +6816,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.733960"
+      "last_updated": "2025-08-23T06:36:45.847435"
     },
     {
       "symbol": "LVS",
@@ -6840,7 +6840,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.735013"
+      "last_updated": "2025-08-23T06:36:45.848531"
     },
     {
       "symbol": "LDOS",
@@ -6864,7 +6864,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.736088"
+      "last_updated": "2025-08-23T06:36:45.849698"
     },
     {
       "symbol": "LEN",
@@ -6888,7 +6888,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.737148"
+      "last_updated": "2025-08-23T06:36:45.850863"
     },
     {
       "symbol": "LII",
@@ -6912,7 +6912,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.738181"
+      "last_updated": "2025-08-23T06:36:45.851987"
     },
     {
       "symbol": "LLY",
@@ -6936,7 +6936,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.739266"
+      "last_updated": "2025-08-23T06:36:45.853146"
     },
     {
       "symbol": "LIN",
@@ -6960,7 +6960,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.740344"
+      "last_updated": "2025-08-23T06:36:45.854308"
     },
     {
       "symbol": "LYV",
@@ -6984,7 +6984,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.741508"
+      "last_updated": "2025-08-23T06:36:45.855588"
     },
     {
       "symbol": "LKQ",
@@ -7008,7 +7008,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.742660"
+      "last_updated": "2025-08-23T06:36:45.856664"
     },
     {
       "symbol": "LMT",
@@ -7032,7 +7032,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.743736"
+      "last_updated": "2025-08-23T06:36:45.857707"
     },
     {
       "symbol": "L",
@@ -7056,7 +7056,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.744859"
+      "last_updated": "2025-08-23T06:36:45.858851"
     },
     {
       "symbol": "LOW",
@@ -7080,7 +7080,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.745925"
+      "last_updated": "2025-08-23T06:36:45.859953"
     },
     {
       "symbol": "LULU",
@@ -7104,7 +7104,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.746968"
+      "last_updated": "2025-08-23T06:36:45.861011"
     },
     {
       "symbol": "LYB",
@@ -7128,7 +7128,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.748063"
+      "last_updated": "2025-08-23T06:36:45.862055"
     },
     {
       "symbol": "MTB",
@@ -7152,7 +7152,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.749116"
+      "last_updated": "2025-08-23T06:36:45.863211"
     },
     {
       "symbol": "MPC",
@@ -7176,7 +7176,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.750252"
+      "last_updated": "2025-08-23T06:36:45.864378"
     },
     {
       "symbol": "MKTX",
@@ -7200,7 +7200,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.751368"
+      "last_updated": "2025-08-23T06:36:45.865521"
     },
     {
       "symbol": "MAR",
@@ -7224,7 +7224,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.752413"
+      "last_updated": "2025-08-23T06:36:45.866727"
     },
     {
       "symbol": "MMC",
@@ -7248,7 +7248,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.753580"
+      "last_updated": "2025-08-23T06:36:45.867922"
     },
     {
       "symbol": "MLM",
@@ -7272,7 +7272,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.754625"
+      "last_updated": "2025-08-23T06:36:45.869049"
     },
     {
       "symbol": "MAS",
@@ -7296,7 +7296,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.755672"
+      "last_updated": "2025-08-23T06:36:45.870286"
     },
     {
       "symbol": "MA",
@@ -7320,7 +7320,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.756764"
+      "last_updated": "2025-08-23T06:36:45.871619"
     },
     {
       "symbol": "MTCH",
@@ -7344,7 +7344,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.757796"
+      "last_updated": "2025-08-23T06:36:45.872837"
     },
     {
       "symbol": "MKC",
@@ -7368,7 +7368,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.758848"
+      "last_updated": "2025-08-23T06:36:45.873986"
     },
     {
       "symbol": "MCD",
@@ -7392,7 +7392,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.759929"
+      "last_updated": "2025-08-23T06:36:45.875142"
     },
     {
       "symbol": "MCK",
@@ -7416,7 +7416,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.761001"
+      "last_updated": "2025-08-23T06:36:45.876304"
     },
     {
       "symbol": "MDT",
@@ -7440,7 +7440,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.762083"
+      "last_updated": "2025-08-23T06:36:45.877478"
     },
     {
       "symbol": "MRK",
@@ -7464,7 +7464,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.763131"
+      "last_updated": "2025-08-23T06:36:45.878655"
     },
     {
       "symbol": "META",
@@ -7488,7 +7488,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.764216"
+      "last_updated": "2025-08-23T06:36:45.879807"
     },
     {
       "symbol": "MET",
@@ -7512,7 +7512,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.765368"
+      "last_updated": "2025-08-23T06:36:45.881146"
     },
     {
       "symbol": "MTD",
@@ -7536,7 +7536,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.766574"
+      "last_updated": "2025-08-23T06:36:45.882310"
     },
     {
       "symbol": "MGM",
@@ -7560,7 +7560,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.767697"
+      "last_updated": "2025-08-23T06:36:45.883492"
     },
     {
       "symbol": "MCHP",
@@ -7584,7 +7584,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.768768"
+      "last_updated": "2025-08-23T06:36:45.884715"
     },
     {
       "symbol": "MU",
@@ -7608,7 +7608,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.769854"
+      "last_updated": "2025-08-23T06:36:45.885847"
     },
     {
       "symbol": "MSFT",
@@ -7632,7 +7632,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.770920"
+      "last_updated": "2025-08-23T06:36:45.887007"
     },
     {
       "symbol": "MAA",
@@ -7656,7 +7656,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.771973"
+      "last_updated": "2025-08-23T06:36:45.888173"
     },
     {
       "symbol": "MRNA",
@@ -7680,7 +7680,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.773086"
+      "last_updated": "2025-08-23T06:36:45.889332"
     },
     {
       "symbol": "MHK",
@@ -7704,7 +7704,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.774237"
+      "last_updated": "2025-08-23T06:36:45.890506"
     },
     {
       "symbol": "MOH",
@@ -7728,7 +7728,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.775450"
+      "last_updated": "2025-08-23T06:36:45.891748"
     },
     {
       "symbol": "TAP",
@@ -7752,7 +7752,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.776568"
+      "last_updated": "2025-08-23T06:36:45.893172"
     },
     {
       "symbol": "MDLZ",
@@ -7776,7 +7776,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.778577"
+      "last_updated": "2025-08-23T06:36:45.894580"
     },
     {
       "symbol": "MPWR",
@@ -7800,7 +7800,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.779695"
+      "last_updated": "2025-08-23T06:36:45.895810"
     },
     {
       "symbol": "MNST",
@@ -7824,7 +7824,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.780817"
+      "last_updated": "2025-08-23T06:36:45.897016"
     },
     {
       "symbol": "MCO",
@@ -7848,7 +7848,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.781878"
+      "last_updated": "2025-08-23T06:36:45.898214"
     },
     {
       "symbol": "MS",
@@ -7872,7 +7872,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.783011"
+      "last_updated": "2025-08-23T06:36:45.899406"
     },
     {
       "symbol": "MOS",
@@ -7896,7 +7896,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.784097"
+      "last_updated": "2025-08-23T06:36:45.900679"
     },
     {
       "symbol": "MSI",
@@ -7920,7 +7920,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.785253"
+      "last_updated": "2025-08-23T06:36:45.901889"
     },
     {
       "symbol": "MSCI",
@@ -7944,7 +7944,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.786321"
+      "last_updated": "2025-08-23T06:36:45.903097"
     },
     {
       "symbol": "NDAQ",
@@ -7968,7 +7968,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.787402"
+      "last_updated": "2025-08-23T06:36:45.904283"
     },
     {
       "symbol": "NTAP",
@@ -7992,7 +7992,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.788498"
+      "last_updated": "2025-08-23T06:36:45.905683"
     },
     {
       "symbol": "NFLX",
@@ -8016,7 +8016,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.789556"
+      "last_updated": "2025-08-23T06:36:45.906914"
     },
     {
       "symbol": "NEM",
@@ -8040,7 +8040,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.790751"
+      "last_updated": "2025-08-23T06:36:45.908210"
     },
     {
       "symbol": "NWSA",
@@ -8064,7 +8064,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.791797"
+      "last_updated": "2025-08-23T06:36:45.909410"
     },
     {
       "symbol": "NWS",
@@ -8088,7 +8088,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.792819"
+      "last_updated": "2025-08-23T06:36:45.910635"
     },
     {
       "symbol": "NEE",
@@ -8112,7 +8112,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.793941"
+      "last_updated": "2025-08-23T06:36:45.912137"
     },
     {
       "symbol": "NKE",
@@ -8136,7 +8136,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.794995"
+      "last_updated": "2025-08-23T06:36:45.913930"
     },
     {
       "symbol": "NI",
@@ -8160,7 +8160,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.796031"
+      "last_updated": "2025-08-23T06:36:45.915352"
     },
     {
       "symbol": "NDSN",
@@ -8184,7 +8184,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.797147"
+      "last_updated": "2025-08-23T06:36:45.916693"
     },
     {
       "symbol": "NSC",
@@ -8208,7 +8208,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.798279"
+      "last_updated": "2025-08-23T06:36:45.918005"
     },
     {
       "symbol": "NTRS",
@@ -8232,7 +8232,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.799307"
+      "last_updated": "2025-08-23T06:36:45.919356"
     },
     {
       "symbol": "NOC",
@@ -8256,7 +8256,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.800446"
+      "last_updated": "2025-08-23T06:36:45.920637"
     },
     {
       "symbol": "NCLH",
@@ -8280,7 +8280,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.801499"
+      "last_updated": "2025-08-23T06:36:45.921824"
     },
     {
       "symbol": "NRG",
@@ -8304,7 +8304,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.802652"
+      "last_updated": "2025-08-23T06:36:45.923105"
     },
     {
       "symbol": "NUE",
@@ -8328,7 +8328,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.803766"
+      "last_updated": "2025-08-23T06:36:45.924282"
     },
     {
       "symbol": "NVDA",
@@ -8352,7 +8352,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.804808"
+      "last_updated": "2025-08-23T06:36:45.925439"
     },
     {
       "symbol": "NVR",
@@ -8376,7 +8376,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.805996"
+      "last_updated": "2025-08-23T06:36:45.926635"
     },
     {
       "symbol": "NXPI",
@@ -8400,7 +8400,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.807146"
+      "last_updated": "2025-08-23T06:36:45.928028"
     },
     {
       "symbol": "ORLY",
@@ -8424,7 +8424,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.808237"
+      "last_updated": "2025-08-23T06:36:45.930212"
     },
     {
       "symbol": "OXY",
@@ -8448,7 +8448,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.809318"
+      "last_updated": "2025-08-23T06:36:45.931985"
     },
     {
       "symbol": "ODFL",
@@ -8472,7 +8472,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.810381"
+      "last_updated": "2025-08-23T06:36:45.933709"
     },
     {
       "symbol": "OMC",
@@ -8496,7 +8496,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.811468"
+      "last_updated": "2025-08-23T06:36:45.935319"
     },
     {
       "symbol": "ON",
@@ -8520,7 +8520,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.812530"
+      "last_updated": "2025-08-23T06:36:45.937130"
     },
     {
       "symbol": "OKE",
@@ -8544,7 +8544,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.813646"
+      "last_updated": "2025-08-23T06:36:45.938868"
     },
     {
       "symbol": "ORCL",
@@ -8568,7 +8568,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.814829"
+      "last_updated": "2025-08-23T06:36:45.940670"
     },
     {
       "symbol": "OTIS",
@@ -8592,7 +8592,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.815926"
+      "last_updated": "2025-08-23T06:36:45.942337"
     },
     {
       "symbol": "PCAR",
@@ -8616,7 +8616,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.817040"
+      "last_updated": "2025-08-23T06:36:45.944030"
     },
     {
       "symbol": "PKG",
@@ -8640,7 +8640,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.818084"
+      "last_updated": "2025-08-23T06:36:45.945727"
     },
     {
       "symbol": "PLTR",
@@ -8664,7 +8664,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.819132"
+      "last_updated": "2025-08-23T06:36:45.947431"
     },
     {
       "symbol": "PANW",
@@ -8688,7 +8688,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.820245"
+      "last_updated": "2025-08-23T06:36:45.949087"
     },
     {
       "symbol": "PSKY",
@@ -8712,7 +8712,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.821334"
+      "last_updated": "2025-08-23T06:36:45.950864"
     },
     {
       "symbol": "PH",
@@ -8736,7 +8736,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.822420"
+      "last_updated": "2025-08-23T06:36:45.952782"
     },
     {
       "symbol": "PAYX",
@@ -8760,7 +8760,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.823460"
+      "last_updated": "2025-08-23T06:36:45.954660"
     },
     {
       "symbol": "PAYC",
@@ -8784,7 +8784,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.824488"
+      "last_updated": "2025-08-23T06:36:45.956598"
     },
     {
       "symbol": "PYPL",
@@ -8808,7 +8808,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.825576"
+      "last_updated": "2025-08-23T06:36:45.958495"
     },
     {
       "symbol": "PNR",
@@ -8832,7 +8832,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.826746"
+      "last_updated": "2025-08-23T06:36:45.960661"
     },
     {
       "symbol": "PEP",
@@ -8856,7 +8856,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.827847"
+      "last_updated": "2025-08-23T06:36:45.962496"
     },
     {
       "symbol": "PFE",
@@ -8880,7 +8880,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.828987"
+      "last_updated": "2025-08-23T06:36:45.964319"
     },
     {
       "symbol": "PCG",
@@ -8904,7 +8904,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.830073"
+      "last_updated": "2025-08-23T06:36:45.965754"
     },
     {
       "symbol": "PM",
@@ -8928,7 +8928,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.831154"
+      "last_updated": "2025-08-23T06:36:45.967007"
     },
     {
       "symbol": "PSX",
@@ -8952,7 +8952,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.832193"
+      "last_updated": "2025-08-23T06:36:45.968230"
     },
     {
       "symbol": "PNW",
@@ -8976,7 +8976,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.833240"
+      "last_updated": "2025-08-23T06:36:45.969483"
     },
     {
       "symbol": "PNC",
@@ -9000,7 +9000,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.834323"
+      "last_updated": "2025-08-23T06:36:45.970772"
     },
     {
       "symbol": "POOL",
@@ -9024,7 +9024,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.835361"
+      "last_updated": "2025-08-23T06:36:45.972000"
     },
     {
       "symbol": "PPG",
@@ -9048,7 +9048,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.836446"
+      "last_updated": "2025-08-23T06:36:45.973189"
     },
     {
       "symbol": "PPL",
@@ -9072,7 +9072,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.837545"
+      "last_updated": "2025-08-23T06:36:45.974362"
     },
     {
       "symbol": "PFG",
@@ -9096,7 +9096,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.838690"
+      "last_updated": "2025-08-23T06:36:45.975626"
     },
     {
       "symbol": "PG",
@@ -9120,7 +9120,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.839850"
+      "last_updated": "2025-08-23T06:36:45.976831"
     },
     {
       "symbol": "PGR",
@@ -9144,7 +9144,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.840904"
+      "last_updated": "2025-08-23T06:36:45.978007"
     },
     {
       "symbol": "PLD",
@@ -9168,7 +9168,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.841959"
+      "last_updated": "2025-08-23T06:36:45.979169"
     },
     {
       "symbol": "PRU",
@@ -9192,7 +9192,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.843019"
+      "last_updated": "2025-08-23T06:36:45.980317"
     },
     {
       "symbol": "PEG",
@@ -9216,7 +9216,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.844055"
+      "last_updated": "2025-08-23T06:36:45.981448"
     },
     {
       "symbol": "PTC",
@@ -9240,7 +9240,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.845112"
+      "last_updated": "2025-08-23T06:36:45.982686"
     },
     {
       "symbol": "PSA",
@@ -9264,7 +9264,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.846153"
+      "last_updated": "2025-08-23T06:36:45.983857"
     },
     {
       "symbol": "PHM",
@@ -9288,7 +9288,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.847218"
+      "last_updated": "2025-08-23T06:36:45.984994"
     },
     {
       "symbol": "PWR",
@@ -9312,7 +9312,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.848298"
+      "last_updated": "2025-08-23T06:36:45.986144"
     },
     {
       "symbol": "QCOM",
@@ -9336,7 +9336,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.849433"
+      "last_updated": "2025-08-23T06:36:45.987341"
     },
     {
       "symbol": "DGX",
@@ -9360,7 +9360,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.850631"
+      "last_updated": "2025-08-23T06:36:45.988644"
     },
     {
       "symbol": "RL",
@@ -9384,7 +9384,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.851686"
+      "last_updated": "2025-08-23T06:36:45.989772"
     },
     {
       "symbol": "RJF",
@@ -9408,7 +9408,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.852777"
+      "last_updated": "2025-08-23T06:36:45.990905"
     },
     {
       "symbol": "RTX",
@@ -9432,7 +9432,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.853819"
+      "last_updated": "2025-08-23T06:36:45.992105"
     },
     {
       "symbol": "O",
@@ -9456,7 +9456,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.854859"
+      "last_updated": "2025-08-23T06:36:45.993285"
     },
     {
       "symbol": "REG",
@@ -9480,7 +9480,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.855914"
+      "last_updated": "2025-08-23T06:36:45.994426"
     },
     {
       "symbol": "REGN",
@@ -9504,7 +9504,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.856950"
+      "last_updated": "2025-08-23T06:36:45.995606"
     },
     {
       "symbol": "RF",
@@ -9528,7 +9528,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.858033"
+      "last_updated": "2025-08-23T06:36:45.996782"
     },
     {
       "symbol": "RSG",
@@ -9552,7 +9552,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.859085"
+      "last_updated": "2025-08-23T06:36:45.997963"
     },
     {
       "symbol": "RMD",
@@ -9576,7 +9576,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.860252"
+      "last_updated": "2025-08-23T06:36:45.999111"
     },
     {
       "symbol": "RVTY",
@@ -9600,7 +9600,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.861306"
+      "last_updated": "2025-08-23T06:36:46.000232"
     },
     {
       "symbol": "ROK",
@@ -9624,7 +9624,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.862446"
+      "last_updated": "2025-08-23T06:36:46.002590"
     },
     {
       "symbol": "ROL",
@@ -9648,7 +9648,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.863552"
+      "last_updated": "2025-08-23T06:36:46.003810"
     },
     {
       "symbol": "ROP",
@@ -9672,7 +9672,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.864592"
+      "last_updated": "2025-08-23T06:36:46.004985"
     },
     {
       "symbol": "ROST",
@@ -9696,7 +9696,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.865684"
+      "last_updated": "2025-08-23T06:36:46.006151"
     },
     {
       "symbol": "RCL",
@@ -9720,7 +9720,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.866775"
+      "last_updated": "2025-08-23T06:36:46.007318"
     },
     {
       "symbol": "SPGI",
@@ -9744,7 +9744,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.867848"
+      "last_updated": "2025-08-23T06:36:46.008507"
     },
     {
       "symbol": "CRM",
@@ -9768,7 +9768,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.868966"
+      "last_updated": "2025-08-23T06:36:46.009758"
     },
     {
       "symbol": "SBAC",
@@ -9792,7 +9792,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.870021"
+      "last_updated": "2025-08-23T06:36:46.010962"
     },
     {
       "symbol": "SLB",
@@ -9816,7 +9816,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.871078"
+      "last_updated": "2025-08-23T06:36:46.012149"
     },
     {
       "symbol": "STX",
@@ -9840,7 +9840,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.872116"
+      "last_updated": "2025-08-23T06:36:46.013338"
     },
     {
       "symbol": "SRE",
@@ -9864,7 +9864,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.873146"
+      "last_updated": "2025-08-23T06:36:46.014523"
     },
     {
       "symbol": "NOW",
@@ -9888,7 +9888,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.874306"
+      "last_updated": "2025-08-23T06:36:46.114462"
     },
     {
       "symbol": "SHW",
@@ -9912,7 +9912,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.875352"
+      "last_updated": "2025-08-23T06:36:46.116113"
     },
     {
       "symbol": "SPG",
@@ -9936,7 +9936,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.876374"
+      "last_updated": "2025-08-23T06:36:46.117592"
     },
     {
       "symbol": "SWKS",
@@ -9960,7 +9960,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.877416"
+      "last_updated": "2025-08-23T06:36:46.119030"
     },
     {
       "symbol": "SJM",
@@ -9984,7 +9984,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.878463"
+      "last_updated": "2025-08-23T06:36:46.120542"
     },
     {
       "symbol": "SW",
@@ -10008,7 +10008,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.879545"
+      "last_updated": "2025-08-23T06:36:46.121989"
     },
     {
       "symbol": "SNA",
@@ -10032,7 +10032,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.880608"
+      "last_updated": "2025-08-23T06:36:46.123531"
     },
     {
       "symbol": "SOLV",
@@ -10056,7 +10056,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.881609"
+      "last_updated": "2025-08-23T06:36:46.124796"
     },
     {
       "symbol": "SO",
@@ -10080,7 +10080,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.882754"
+      "last_updated": "2025-08-23T06:36:46.126131"
     },
     {
       "symbol": "LUV",
@@ -10104,7 +10104,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.883800"
+      "last_updated": "2025-08-23T06:36:46.127697"
     },
     {
       "symbol": "SWK",
@@ -10128,7 +10128,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.884891"
+      "last_updated": "2025-08-23T06:36:46.129242"
     },
     {
       "symbol": "SBUX",
@@ -10152,7 +10152,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.886041"
+      "last_updated": "2025-08-23T06:36:46.130601"
     },
     {
       "symbol": "STT",
@@ -10176,7 +10176,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.887128"
+      "last_updated": "2025-08-23T06:36:46.132025"
     },
     {
       "symbol": "STLD",
@@ -10200,7 +10200,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.888185"
+      "last_updated": "2025-08-23T06:36:46.133383"
     },
     {
       "symbol": "STE",
@@ -10224,7 +10224,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.889220"
+      "last_updated": "2025-08-23T06:36:46.134902"
     },
     {
       "symbol": "SYK",
@@ -10248,7 +10248,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.890283"
+      "last_updated": "2025-08-23T06:36:46.136113"
     },
     {
       "symbol": "SMCI",
@@ -10272,7 +10272,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.891400"
+      "last_updated": "2025-08-23T06:36:46.137293"
     },
     {
       "symbol": "SYF",
@@ -10296,7 +10296,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.892451"
+      "last_updated": "2025-08-23T06:36:46.138515"
     },
     {
       "symbol": "SNPS",
@@ -10320,7 +10320,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.893543"
+      "last_updated": "2025-08-23T06:36:46.139749"
     },
     {
       "symbol": "SYY",
@@ -10344,7 +10344,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.894597"
+      "last_updated": "2025-08-23T06:36:46.140891"
     },
     {
       "symbol": "TMUS",
@@ -10354,7 +10354,7 @@
       "daily_return": -2.41,
       "is_at_52_week_low": "False",
       "is_near_52_week_low_5_percent": "False",
-      "distance_from_52_week_low_percent": 32.21,
+      "distance_from_52_week_low_percent": 32.2,
       "average_volume_1y": 4090559.0,
       "average_volume_2y": 4373614.0,
       "bollinger_bands": {
@@ -10368,7 +10368,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.895686"
+      "last_updated": "2025-08-23T06:36:46.142043"
     },
     {
       "symbol": "TROW",
@@ -10392,7 +10392,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.896774"
+      "last_updated": "2025-08-23T06:36:46.143345"
     },
     {
       "symbol": "TTWO",
@@ -10416,7 +10416,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.897930"
+      "last_updated": "2025-08-23T06:36:46.144538"
     },
     {
       "symbol": "TPR",
@@ -10440,7 +10440,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.899025"
+      "last_updated": "2025-08-23T06:36:46.145745"
     },
     {
       "symbol": "TRGP",
@@ -10464,7 +10464,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.900120"
+      "last_updated": "2025-08-23T06:36:46.146885"
     },
     {
       "symbol": "TGT",
@@ -10488,7 +10488,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.901561"
+      "last_updated": "2025-08-23T06:36:46.148028"
     },
     {
       "symbol": "TEL",
@@ -10512,7 +10512,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.902907"
+      "last_updated": "2025-08-23T06:36:46.149193"
     },
     {
       "symbol": "TDY",
@@ -10536,7 +10536,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.904070"
+      "last_updated": "2025-08-23T06:36:46.150319"
     },
     {
       "symbol": "TER",
@@ -10560,7 +10560,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.905252"
+      "last_updated": "2025-08-23T06:36:46.151477"
     },
     {
       "symbol": "TSLA",
@@ -10584,7 +10584,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.906378"
+      "last_updated": "2025-08-23T06:36:46.152816"
     },
     {
       "symbol": "TXN",
@@ -10608,7 +10608,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.907539"
+      "last_updated": "2025-08-23T06:36:46.154022"
     },
     {
       "symbol": "TPL",
@@ -10632,7 +10632,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.909002"
+      "last_updated": "2025-08-23T06:36:46.155335"
     },
     {
       "symbol": "TXT",
@@ -10656,7 +10656,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.910791"
+      "last_updated": "2025-08-23T06:36:46.156618"
     },
     {
       "symbol": "TMO",
@@ -10680,7 +10680,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.912695"
+      "last_updated": "2025-08-23T06:36:46.157794"
     },
     {
       "symbol": "TJX",
@@ -10704,7 +10704,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.914165"
+      "last_updated": "2025-08-23T06:36:46.158969"
     },
     {
       "symbol": "TKO",
@@ -10728,7 +10728,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.915325"
+      "last_updated": "2025-08-23T06:36:46.160119"
     },
     {
       "symbol": "TTD",
@@ -10752,7 +10752,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.916465"
+      "last_updated": "2025-08-23T06:36:46.161350"
     },
     {
       "symbol": "TSCO",
@@ -10776,7 +10776,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.917639"
+      "last_updated": "2025-08-23T06:36:46.162693"
     },
     {
       "symbol": "TT",
@@ -10800,7 +10800,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.918830"
+      "last_updated": "2025-08-23T06:36:46.163952"
     },
     {
       "symbol": "TDG",
@@ -10824,7 +10824,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.920015"
+      "last_updated": "2025-08-23T06:36:46.165119"
     },
     {
       "symbol": "TRV",
@@ -10848,7 +10848,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.921095"
+      "last_updated": "2025-08-23T06:36:46.166271"
     },
     {
       "symbol": "TRMB",
@@ -10872,7 +10872,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.922204"
+      "last_updated": "2025-08-23T06:36:46.167428"
     },
     {
       "symbol": "TFC",
@@ -10896,7 +10896,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.923259"
+      "last_updated": "2025-08-23T06:36:46.168697"
     },
     {
       "symbol": "TYL",
@@ -10920,7 +10920,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.924322"
+      "last_updated": "2025-08-23T06:36:46.169811"
     },
     {
       "symbol": "TSN",
@@ -10944,7 +10944,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.926337"
+      "last_updated": "2025-08-23T06:36:46.170938"
     },
     {
       "symbol": "USB",
@@ -10968,7 +10968,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.927554"
+      "last_updated": "2025-08-23T06:36:46.172125"
     },
     {
       "symbol": "UBER",
@@ -10992,7 +10992,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.928654"
+      "last_updated": "2025-08-23T06:36:46.173368"
     },
     {
       "symbol": "UDR",
@@ -11016,7 +11016,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.929779"
+      "last_updated": "2025-08-23T06:36:46.174533"
     },
     {
       "symbol": "ULTA",
@@ -11040,7 +11040,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.930891"
+      "last_updated": "2025-08-23T06:36:46.175698"
     },
     {
       "symbol": "UNP",
@@ -11064,7 +11064,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.931989"
+      "last_updated": "2025-08-23T06:36:46.176815"
     },
     {
       "symbol": "UAL",
@@ -11088,7 +11088,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.933063"
+      "last_updated": "2025-08-23T06:36:46.177963"
     },
     {
       "symbol": "UPS",
@@ -11112,7 +11112,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.934135"
+      "last_updated": "2025-08-23T06:36:46.179086"
     },
     {
       "symbol": "URI",
@@ -11136,7 +11136,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.935244"
+      "last_updated": "2025-08-23T06:36:46.180260"
     },
     {
       "symbol": "UNH",
@@ -11160,7 +11160,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.936312"
+      "last_updated": "2025-08-23T06:36:46.181456"
     },
     {
       "symbol": "UHS",
@@ -11184,7 +11184,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.937392"
+      "last_updated": "2025-08-23T06:36:46.182889"
     },
     {
       "symbol": "VLO",
@@ -11208,7 +11208,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.938542"
+      "last_updated": "2025-08-23T06:36:46.184045"
     },
     {
       "symbol": "VTR",
@@ -11232,7 +11232,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.939691"
+      "last_updated": "2025-08-23T06:36:46.185210"
     },
     {
       "symbol": "VLTO",
@@ -11256,7 +11256,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.940754"
+      "last_updated": "2025-08-23T06:36:46.186311"
     },
     {
       "symbol": "VRSN",
@@ -11280,7 +11280,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.941846"
+      "last_updated": "2025-08-23T06:36:46.187522"
     },
     {
       "symbol": "VRSK",
@@ -11304,7 +11304,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.942899"
+      "last_updated": "2025-08-23T06:36:46.188724"
     },
     {
       "symbol": "VZ",
@@ -11328,7 +11328,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.943946"
+      "last_updated": "2025-08-23T06:36:46.189889"
     },
     {
       "symbol": "VRTX",
@@ -11352,7 +11352,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.945008"
+      "last_updated": "2025-08-23T06:36:46.191048"
     },
     {
       "symbol": "VTRS",
@@ -11376,7 +11376,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.946047"
+      "last_updated": "2025-08-23T06:36:46.192241"
     },
     {
       "symbol": "VICI",
@@ -11400,7 +11400,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.947128"
+      "last_updated": "2025-08-23T06:36:46.193502"
     },
     {
       "symbol": "V",
@@ -11424,7 +11424,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.948235"
+      "last_updated": "2025-08-23T06:36:46.194684"
     },
     {
       "symbol": "VST",
@@ -11448,7 +11448,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.949285"
+      "last_updated": "2025-08-23T06:36:46.195823"
     },
     {
       "symbol": "VMC",
@@ -11472,7 +11472,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.950465"
+      "last_updated": "2025-08-23T06:36:46.197019"
     },
     {
       "symbol": "WRB",
@@ -11496,7 +11496,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.951633"
+      "last_updated": "2025-08-23T06:36:46.198198"
     },
     {
       "symbol": "GWW",
@@ -11520,7 +11520,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.952772"
+      "last_updated": "2025-08-23T06:36:46.199333"
     },
     {
       "symbol": "WAB",
@@ -11544,7 +11544,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.953824"
+      "last_updated": "2025-08-23T06:36:46.200480"
     },
     {
       "symbol": "WBA",
@@ -11568,7 +11568,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.954889"
+      "last_updated": "2025-08-23T06:36:46.201629"
     },
     {
       "symbol": "WMT",
@@ -11592,7 +11592,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.955965"
+      "last_updated": "2025-08-23T06:36:46.202818"
     },
     {
       "symbol": "DIS",
@@ -11616,7 +11616,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.957008"
+      "last_updated": "2025-08-23T06:36:46.203997"
     },
     {
       "symbol": "WBD",
@@ -11640,7 +11640,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.958058"
+      "last_updated": "2025-08-23T06:36:46.205189"
     },
     {
       "symbol": "WM",
@@ -11664,7 +11664,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.959129"
+      "last_updated": "2025-08-23T06:36:46.206326"
     },
     {
       "symbol": "WAT",
@@ -11688,7 +11688,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.960560"
+      "last_updated": "2025-08-23T06:36:46.207431"
     },
     {
       "symbol": "WEC",
@@ -11712,7 +11712,7 @@
         "is_near_lower_band": "True",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.961872"
+      "last_updated": "2025-08-23T06:36:46.208586"
     },
     {
       "symbol": "WFC",
@@ -11736,7 +11736,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.963152"
+      "last_updated": "2025-08-23T06:36:46.209709"
     },
     {
       "symbol": "WELL",
@@ -11760,7 +11760,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.964341"
+      "last_updated": "2025-08-23T06:36:46.210830"
     },
     {
       "symbol": "WST",
@@ -11784,7 +11784,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.966105"
+      "last_updated": "2025-08-23T06:36:46.212033"
     },
     {
       "symbol": "WDC",
@@ -11808,7 +11808,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.967362"
+      "last_updated": "2025-08-23T06:36:46.213214"
     },
     {
       "symbol": "WY",
@@ -11832,7 +11832,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.968519"
+      "last_updated": "2025-08-23T06:36:46.214398"
     },
     {
       "symbol": "WSM",
@@ -11856,7 +11856,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.969684"
+      "last_updated": "2025-08-23T06:36:46.215534"
     },
     {
       "symbol": "WMB",
@@ -11880,7 +11880,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.970851"
+      "last_updated": "2025-08-23T06:36:46.216706"
     },
     {
       "symbol": "WTW",
@@ -11904,7 +11904,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.971969"
+      "last_updated": "2025-08-23T06:36:46.217958"
     },
     {
       "symbol": "WDAY",
@@ -11928,7 +11928,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.973044"
+      "last_updated": "2025-08-23T06:36:46.219218"
     },
     {
       "symbol": "WYNN",
@@ -11952,7 +11952,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.974112"
+      "last_updated": "2025-08-23T06:36:46.220425"
     },
     {
       "symbol": "XEL",
@@ -11976,7 +11976,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.975241"
+      "last_updated": "2025-08-23T06:36:46.221668"
     },
     {
       "symbol": "XYL",
@@ -12000,7 +12000,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.976410"
+      "last_updated": "2025-08-23T06:36:46.222827"
     },
     {
       "symbol": "YUM",
@@ -12024,7 +12024,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.977538"
+      "last_updated": "2025-08-23T06:36:46.223990"
     },
     {
       "symbol": "ZBRA",
@@ -12048,7 +12048,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "False"
       },
-      "last_updated": "2025-08-23T06:12:04.978614"
+      "last_updated": "2025-08-23T06:36:46.225167"
     },
     {
       "symbol": "ZBH",
@@ -12072,7 +12072,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.979690"
+      "last_updated": "2025-08-23T06:36:46.226355"
     },
     {
       "symbol": "ZTS",
@@ -12096,7 +12096,7 @@
         "is_near_lower_band": "False",
         "is_near_upper_band": "True"
       },
-      "last_updated": "2025-08-23T06:12:04.980890"
+      "last_updated": "2025-08-23T06:36:46.227535"
     }
   ]
 }
